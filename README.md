@@ -1,4 +1,6 @@
 # PROJETO-FEI-TV
+Rian de Sousa e Sousa; CURSO: Ciência da Computação, 1° Ciclo; RA: 72.126.036-2 
+link do vídeo para youtube: https://youtu.be/w5S43WKmCRo?si=Y-Rsebb2as5hr0CP
 
 FEI-TV
 
